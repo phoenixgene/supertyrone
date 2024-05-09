@@ -1,3 +1,4 @@
+
 import os
 import random
 import math
@@ -8,7 +9,7 @@ pygame.init()
 
 pygame.display.set_caption("Super Tyrone")
 
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 900, 700
 FPS = 60
 PLAYER_VEL = 5
 
